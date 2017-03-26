@@ -1,4 +1,4 @@
 # Hello-World
 
-- This is a test reposoitory
+- This is a test repository
 - Experimenting with my first repository. 
